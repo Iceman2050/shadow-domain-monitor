@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "shadow-domain-monitor"
+version = "1.0.0"
+description = "Watch Certificate Transparency logs for lookalike domains of your brand"
+readme = "README.md"
+license = { text = "MIT" }
+requires-python = ">=3.9"
+
+[tool.setuptools.packages.find]
+include = ["shadowmon*"]
+
+[tool.setuptools.package-data]
+shadowmon = ["data/*.json"]

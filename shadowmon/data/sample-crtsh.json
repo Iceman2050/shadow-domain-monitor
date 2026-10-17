@@ -1,0 +1,114 @@
+[
+  {
+    "issuer_ca_id": 1000,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
+    "name_value": "brightacmeapp.com",
+    "min_cert_id": 9000000,
+    "not_before": "2026-05-20T10:00:00",
+    "not_after": "2027-01-01T00:00:00"
+  },
+  {
+    "issuer_ca_id": 1001,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
+    "name_value": "brightacme.net",
+    "min_cert_id": 9000001,
+    "not_before": "2026-06-05T10:00:00",
+    "not_after": "2027-01-01T00:00:00"
+  },
+  {
+    "issuer_ca_id": 1002,
+    "issuer_name": "C=US, O=ZeroSSL, CN=ZeroSSL RSA Domain Secure Site CA",
+    "name_value": "bright-acme.com",
+    "min_cert_id": 9000002,
+    "not_before": "2026-07-11T10:00:00",
+    "not_after": "2027-01-01T00:00:00"
+  },
+  {
+    "issuer_ca_id": 1003,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
+    "name_value": "brigthacme.com",
+    "min_cert_id": 9000003,
+    "not_before": "2026-08-02T10:00:00",
+    "not_after": "2027-01-01T00:00:00"
+  },
+  {
+    "issuer_ca_id": 1004,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WR2",
+    "name_value": "brightacm3.com",
+    "min_cert_id": 9000004,
+    "not_before": "2026-09-19T10:00:00",
+    "not_after": "2027-01-01T00:00:00"
+  },
+  {
+    "issuer_ca_id": 1005,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
+    "name_value": "secure-brightacme.com",
+    "min_cert_id": 9000005,
+    "not_before": "2026-10-01T10:00:00",
+    "not_after": "2027-01-01T00:00:00"
+  },
+  {
+    "issuer_ca_id": 1006,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
+    "name_value": "8rightacme.com",
+    "min_cert_id": 9000006,
+    "not_before": "2026-10-09T10:00:00",
+    "not_after": "2027-01-01T00:00:00"
+  },
+  {
+    "issuer_ca_id": 1007,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
+    "name_value": "brightacme.io",
+    "min_cert_id": 9000007,
+    "not_before": "2026-09-02T10:00:00",
+    "not_after": "2027-01-01T00:00:00"
+  },
+  {
+    "issuer_ca_id": 1008,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
+    "name_value": "secure-brightacme.com\nwww.secure-brightacme.com",
+    "min_cert_id": 9000008,
+    "not_before": "2026-10-03T10:00:00",
+    "not_after": "2027-01-01T00:00:00"
+  },
+  {
+    "issuer_ca_id": 1009,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
+    "name_value": "brightacme.com",
+    "min_cert_id": 9000009,
+    "not_before": "2025-03-14T08:12:00",
+    "not_after": "2027-01-01T00:00:00"
+  },
+  {
+    "issuer_ca_id": 1010,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
+    "name_value": "brightacme.com",
+    "min_cert_id": 9000010,
+    "not_before": "2026-02-01T09:00:00",
+    "not_after": "2027-01-01T00:00:00"
+  },
+  {
+    "issuer_ca_id": 1011,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert TLS RSA SHA256 2020 CA1",
+    "name_value": "*.brightacme.com",
+    "min_cert_id": 9000011,
+    "not_before": "2026-04-02T10:00:00",
+    "not_after": "2027-01-01T00:00:00"
+  },
+  {
+    "issuer_ca_id": 1012,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
+    "name_value": "example.com",
+    "min_cert_id": 9000012,
+    "not_before": "2026-01-01T00:00:00",
+    "not_after": "2027-01-01T00:00:00"
+  },
+  {
+    "issuer_ca_id": 1013,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert TLS RSA SHA256 2020 CA1",
+    "name_value": "totally-unrelated.org",
+    "min_cert_id": 9000013,
+    "not_before": "2026-02-02T00:00:00",
+    "not_after": "2027-01-01T00:00:00"
+  }
+]
